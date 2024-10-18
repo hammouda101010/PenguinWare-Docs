@@ -2,10 +2,10 @@
 
 * [Welcome There Boi!](README.md)
 
-## Getting Started
+## Getting Started with Custom Microgames <a href="#custom-microgames-part" id="custom-microgames-part"></a>
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Custom Microgames](custom-microgames-part/quickstart.md)
+* [Publish your docs](custom-microgames-part/publish-your-docs.md)
 
 ## Basics
 
