@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# PenguinWare's Code of Conduct
 
 ## Our Pledge
 
@@ -10,7 +10,7 @@ nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, and healthy community in PenguinWare.
 
 ## Our Standards
 
